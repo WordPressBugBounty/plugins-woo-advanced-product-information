@@ -15,7 +15,7 @@ Makes your product page informative with additional info, such as: Review, Stock
 
 Display more intuitive information of products such as sale countdown, sale badges, who recently bought products, rank of products in their categories, available payment methods...
 
->[Documents](https://docs.villatheme.com/woocommerce-advanced-product-information "Documents") | [Facebook group](https://www.facebook.com/groups/villatheme "VillaTheme")
+>[Documents](https://docs.villatheme.com/woocommerce-advanced-product-information "Documents") | [Facebook group](https://www.facebook.com/groups/villatheme "VillaTheme") | [Try demo](https://demo2.villatheme.com/woo-advanced)
 
 ### Important Notice:
 
@@ -177,6 +177,9 @@ Check screenshots at https://villatheme.com/woo-advanced-product-information/ or
 1. Available badges shortcode
 
 == Changelog ==
+/*1.1.6 - 2025.02.28*/
+- Updated: Update support file
+
 /*1.1.5 - 2024.12.11*/
 - Fixed: XSS vulnerability in wapinfo_badges shortcode
 - Fixed: Translation loading triggered too early

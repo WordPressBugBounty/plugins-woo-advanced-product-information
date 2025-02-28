@@ -3,10 +3,10 @@
  * Plugin Name: Advanced Product Information for WooCommerce
  * Plugin URI: https://villatheme.com/extensions/
  * Description: Makes your product page informative with additional info, such as: Review, Stock, Sales, Countdown, Coupon, Social Proof, Rank and more.
- * Version: 1.1.5
+ * Version: 1.1.6
  * Author: VillaTheme
  * Author URI: http://villatheme.com
- * Copyright 2018-2024 VillaTheme.com. All rights reserved.
+ * Copyright 2018-2025 VillaTheme.com. All rights reserved.
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: woo-advanced-product-information
@@ -14,7 +14,7 @@
  * Requires Plugins: woocommerce
  * Requires at least: 5.0
  * Tested up to: 6.7
- * WC tested up to: 9.4
+ * WC tested up to: 9.6
  * WC requires at least: 7.0
  * Requires PHP: 7.0
  */
@@ -22,7 +22,8 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-define( 'VI_WC_ADVANCED_PRODUCT_INFORMATION_VERSION', '1.1.5' );
+
+define( 'VI_WC_ADVANCED_PRODUCT_INFORMATION_VERSION', '1.1.6' );
 
 /**
  * Class WC_ADVANCED_PRODUCT_INFORMATION
@@ -40,14 +41,15 @@ class WC_ADVANCED_PRODUCT_INFORMATION {
 		}
 
 		$environment = new \VillaTheme_Require_Environment( [
-				'plugin_name' => 'Advanced Product Information for WooCommerce',
-				'php_version' => '7.0',
-				'wp_version'  => '5.0',
-				'wc_version'  => '7.0',
+				'plugin_name'     => 'Advanced Product Information for WooCommerce',
+				'php_version'     => '7.0',
+				'wp_version'      => '5.0',
 				'require_plugins' => [
 					[
-						'slug' => 'woocommerce',
-						'name' => 'WooCommerce',
+						'slug'            => 'woocommerce',
+						'name'            => 'WooCommerce',
+						'defined_version' => 'WC_VERSION',
+						'version'         => '7.0',
 					],
 				],
 			]
