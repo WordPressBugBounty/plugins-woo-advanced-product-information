@@ -3,7 +3,7 @@ Contributors: villatheme, mrt3vn
 Donate link: http://www.villatheme.com/donate
 Tags: sales countdown, rank of category, rank of product, product icon box, free ship
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.0
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,7 @@ Makes your product page informative with additional info, such as: Review, Stock
 
 Display more intuitive information of products such as sale countdown, sale badges, who recently bought products, rank of products in their categories, available payment methods...
 
->[Documents](https://docs.villatheme.com/woocommerce-advanced-product-information "Documents") | [Facebook group](https://www.facebook.com/groups/villatheme "VillaTheme") | [Try demo](https://demo2.villatheme.com/woo-advanced)
+>[Try demo](https://new2new.com/?item=woo-advanced-product-information "Advanced Product Information for WooCommerce") | [Documents](https://docs.villatheme.com/?item=woo-advanced-product-information "Documents") | [Facebook group](https://www.facebook.com/groups/villatheme "VillaTheme")
 
 ### Important Notice:
 
@@ -55,7 +55,7 @@ Display more intuitive information of products such as sale countdown, sale badg
 
 &#9658; Access our articles tutorials.
 
-&#9658; [Access our documents](http://docs.villatheme.com/woo-advanced-product-information/).
+&#9658; [Access our documents](https://docs.villatheme.com/?item=woo-advanced-product-information).
 
 ### And much more things are waiting for you to discover
 
@@ -63,107 +63,120 @@ Check screenshots at https://villatheme.com/woo-advanced-product-information/ or
 
 ### Documentation
 
-- [Getting Started](http://docs.villatheme.com/woo-advanced-product-information/)
+- [Getting Started](https://docs.villatheme.com/?item=woo-advanced-product-information)
 
 ### Plugin Links
 
 - [Project Page](https://villatheme.com)
-- [Documentation](http://docs.villatheme.com/woo-advanced-product-information/)
+- [Documentation](https://docs.villatheme.com/?item=woo-advanced-product-information)
 - [Report Bugs/Issues](https://villatheme.com/knowledge-base/security-is-our-priority/)
 
 ### MAY BE YOU NEED
 
-[SUBRE – Product Subscription for WooCommerce](https://bit.ly/subre-product-subscription-for-woo)
 
-[Clear Autoptimize Cache Automatically](https://bit.ly/clear-autoptimize-cache-automatically)
+[9MAIL - WordPress Email Templates Designer](hhtps://wordpress.org/plugins/9mail-wp-email-templates-designer/)
 
-[FEWC – WooCommerce Extra Checkout Fields](https://bit.ly/fewc-extra-checkout-fields-for-woocommerce)
+[9Map - Map Multi Locations](hhtps://wordpress.org/plugins/9map-map-multi-locations/)
 
-[EPOW – Custom Product Options for WooCommerce](https://bit.ly/epow-custom-product-options-for-woocommerce)
+[Abandoned Cart Recovery for WooCommerce](hhtps://wordpress.org/plugins/woo-abandoned-cart-recovery/)
 
-[ChinaDS – Taobao Dropshipping for WooCommerce](https://bit.ly/chinads)
+[AFFI - Affiliate Marketing for WooCommerce](hhtps://wordpress.org/plugins/affi-affiliate-marketing-for-woo/)
 
-[9MAIL – WordPress Email Templates Designer](https://bit.ly/9mail-wp-email-templates-designers)
+[ALD - Dropshipping and Fulfillment for AliExpress and WooCommerce](hhtps://wordpress.org/plugins/woo-alidropship/)
 
-[EPOI – WP Points and Rewards](https://bit.ly/epoi-wordpress-points-and-rewards)
+[Boost Sales for WooCommerce - Set up Up-Sells & Cross-Sells Popups & Auto Apply Coupon](hhtps://wordpress.org/plugins/woo-boost-sales/)
 
-[WebPOS – Point of Sale for WooCommerce](https://bit.ly/webpos-point-of-sale-for-woocommerce)
+[Bopo - WooCommerce Product Bundle Builder](hhtps://wordpress.org/plugins/bopo-woo-product-bundle-builder/)
 
-[Jagif – WooCommerce Free Gift](https://bit.ly/jagif)
+[Cart All In One For WooCommerce](hhtps://wordpress.org/plugins/woo-cart-all-in-one/)
 
-[Coreem – Coupon Reminder for WooCommerce](http://bit.ly/woo-coupon-reminder)
+[Catna - Woo Name Your Price and Offers](hhtps://wordpress.org/plugins/catna-woo-name-your-price-and-offers/)
 
-[COMPE – WooCommerce Compare Products](https://bit.ly/compe-woo-compare-products)
+[Checkout Upsell Funnel for WooCommerce](hhtps://wordpress.org/plugins/checkout-upsell-funnel-for-woo/)
 
-[W2S – Migrate WooCommerce to Shopify](https://bit.ly/w2s-migrate-woo-to-shopify)
+[ChinaDS – Tmall-Taobao Dropshipping for WooCommerce](hhtps://wordpress.org/plugins/chinads-dropshipping-taobao-woocommerce/)
 
-[REDIS - WooCommerce Dynamic Pricing and Discounts](https://bit.ly/redis-woo-dynamic-pricing-and-discounts)
+[Clear Autoptimize Cache Automatically](hhtps://wordpress.org/plugins/clear-autoptimize-cache-automatically/)
 
-[EXMAGE – WordPress Image Links](https://bit.ly/exmage)
+[COMPE - WooCommerce Compare Products](hhtps://wordpress.org/plugins/compe-woo-compare-products/)
 
-[Pofily – WooCommerce Product Filters](https://bit.ly/pofily-woo-product-filters)
+[Coreem - Coupon Reminder for WooCommerce](hhtps://wordpress.org/plugins/woo-coupon-reminder/)
 
-[Bopo – Woo Product Bundle Builder](https://bit.ly/bopo-woo-product-bundle-builder)
+[Coupon Box for WooCommerce](hhtps://wordpress.org/plugins/woo-coupon-box/)
 
-[WPBulky – WordPress Bulk Edit Post Types](https://bit.ly/wpbulky)
+[CURCY - Multi Currency for WooCommerce - The best free currency exchange plugin - Run smoothly on WooCommerce 9.x](hhtps://wordpress.org/plugins/woo-multi-currency/)
 
-[Bulky - Bulk Edit Products for WooCommerce](http://bit.ly/bulk-edit-products-for-woo)
+[Customer Coupons for WooCommerce](hhtps://wordpress.org/plugins/woo-customer-coupons/)
 
-[Catna – Woo Name Your Price and Offers](http://bit.ly/catna-woo-name-your-price-and-offers)
+[DEPART - Deposit and Part payment for Woo](hhtps://wordpress.org/plugins/depart-deposit-and-part-payment-for-woo/)
 
-[Product Size Chart For WooCommerce](http://bit.ly/product-size-chart-for-woo)
+[Email Template Customizer for WooCommerce](hhtps://wordpress.org/plugins/email-template-customizer-for-woo/)
 
-[Product Pre-Orders for WooCommerce](http://bit.ly/woocommerce-product-pre-orders)
+[EPOI - WP Points and Rewards](hhtps://wordpress.org/plugins/epoi-wp-points-and-rewards/)
 
-[Checkout Upsell Funnel for WooCommerce](http://bit.ly/woo-checkout-upsell-funnel)
+[EPOW - Custom Product Options for WooCommerce](hhtps://wordpress.org/plugins/epow-custom-product-options-for-woocommerce/)
 
-[Cart All In One For WooCommerce](http://bit.ly/woo-cart-all-in-one)
+[EU Cookies Bar for WordPress](hhtps://wordpress.org/plugins/eu-cookies-bar/)
 
-[Email Template Customizer for WooCommerce](http://bit.ly/woo-email-template-customizer)
+[EXMAGE - WordPress Image Links](hhtps://wordpress.org/plugins/exmage-wp-image-links/)
 
-[ALD - Dropshipping and Fulfillment for AliExpress and WooCommerce](http://bit.ly/woo-aliexpress-dropshipping)
+[FEWC - Extra Checkout Fields For WooCommerce](hhtps://wordpress.org/plugins/fewc-extra-checkout-fields-for-woocommerce/)
 
-[Product Variations Swatches for WooCommerce](http://bit.ly/product-variations-swatches-for-woocommerce)
+[Free Shipping Bar for WooCommerce](hhtps://wordpress.org/plugins/woo-free-shipping-bar/)
 
-[Orders Tracking for WooCommerce](http://bit.ly/woo-orders-tracking)
+[GIFT4U - Gift Cards All in One for Woo](hhtps://wordpress.org/plugins/gift4u-gift-cards-all-in-one-for-woo/)
 
-[Abandoned Cart Recovery For WooCommerce](http://bit.ly/woo-abandoned-cart-recovery)
+[HANDMADE - Dropshipping for Etsy and WooCommerce](hhtps://wordpress.org/plugins/handmade-dropshipping-for-etsy-and-woo/)
 
-[Import Shopify to WooCommerce](http://bit.ly/import-shopify-to-woocommerce)
+[HAPPY - Helpdesk Support Ticket System](hhtps://wordpress.org/plugins/happy-helpdesk-support-ticket-system/)
 
-[Customer Coupons for WooCommerce](http://bit.ly/woo-customer-coupons)
+[Jagif - WooCommerce Free Gift](hhtps://wordpress.org/plugins/jagif-woo-free-gift/)
 
-[Virtual Reviews for WooCommerce](http://bit.ly/woo-virtual-reviews)
+[LookBook for WooCommerce - Shoppable with Product Tags](hhtps://wordpress.org/plugins/woo-lookbook/)
 
-[Thank You Page Customizer for WooCommerce](http://bit.ly/woo-thank-you-page-customizer)
+[Lucky Wheel for WooCommerce - Spin a Sale](hhtps://wordpress.org/plugins/woo-lucky-wheel/)
 
-[Sales Countdown Timer](http://bit.ly/sales-countdown-timer)
+[Notification for WooCommerce | Boost Your Sales - Recent Sales Popup - Live Feed Sales - Upsells](hhtps://wordpress.org/plugins/woo-notification/)
 
-[Suggestion Engine for WooCommerce](https://wordpress.org/plugins/woo-suggestion-engine/)
+[Orders Tracking for WooCommerce](hhtps://wordpress.org/plugins/woo-orders-tracking/)
 
-[EU Cookies Bar](http://bit.ly/eu-cookies-bar)
+[Photo Reviews for WooCommerce](hhtps://wordpress.org/plugins/woo-photo-reviews/)
 
-[Lucky Wheel for WooCommerce](http://bit.ly/woo-lucky-wheel)
+[Pofily - WooCommerce Product Filters](hhtps://wordpress.org/plugins/pofily-woo-product-filters/)
 
-[WordPress Lucky Wheel](http://bit.ly/wp-lucky-wheel)
+[Product Builder for WooCommerce - Custom PC Builder](hhtps://wordpress.org/plugins/woo-product-builder/)
 
-[Advanced Product Information for WooCommerce](http://bit.ly/woo-advanced-product-information)
+[Product Pre-Orders for WooCommerce](hhtps://wordpress.org/plugins/product-pre-orders-for-woo/)
 
-[LookBook for WooCommerce](http://bit.ly/woo-lookbook)
+[Product Size Chart For WooCommerce](hhtps://wordpress.org/plugins/product-size-chart-for-woo/)
 
-[Photo Reviews for WooCommerce](http://bit.ly/woo-photo-reviews)
+[Product Variations Swatches for WooCommerce](hhtps://wordpress.org/plugins/product-variations-swatches-for-woocommerce/)
 
-[Product Builder for WooCommerce](http://bit.ly/woo-product-builder)
+[REDIS - WooCommerce Dynamic Pricing and Discounts](hhtps://wordpress.org/plugins/redis-woo-dynamic-pricing-and-discounts/)
 
-[Boost Sales for WooCommerce](http://bit.ly/woo-boost-sales)
+[REES - Real Estate for Woo](hhtps://wordpress.org/plugins/rees-real-estate-for-woo/)
 
-[Free Shipping Bar for WooCommerce](http://bit.ly/woo-free-shipping-bar)
+[S2W - Import Shopify to WooCommerce](hhtps://wordpress.org/plugins/import-shopify-to-woocommerce/)
 
-[Notification for WooCommerce](http://bit.ly/woo-notification)
+[Sales Countdown Timer](hhtps://wordpress.org/plugins/sales-countdown-timer/)
 
-[CURCY – Multi Currency for WooCommerce](http://bit.ly/woo-multi-currency)
+[SUBRE – Product Subscription for WooCommerce - Recurring Payments](hhtps://wordpress.org/plugins/subre-product-subscription-for-woo/)
 
-[Coupon Box for WooCommerce](http://bit.ly/woo-coupon-box-free)
+[Suggestion Engine for WooCommerce](hhtps://wordpress.org/plugins/woo-suggestion-engine/)
+
+[Thank You Page Customizer for WooCommerce - Increase Your Sales](hhtps://wordpress.org/plugins/woo-thank-you-page-customizer/)
+
+[TMDS - Dropshipping for TEMU and Woo](hhtps://wordpress.org/plugins/tmds-dropshipping-for-temu-and-woo/)
+
+[W2S - Migrate WooCommerce to Shopify](hhtps://wordpress.org/plugins/w2s-migrate-woo-to-shopify/)
+
+[WebPOS – Point of Sale for WooCommerce](hhtps://wordpress.org/plugins/webpos-point-of-sale-for-woocommerce/)
+
+[WordPress Lucky Wheel - Spin a Sale](hhtps://wordpress.org/plugins/wp-lucky-wheel/)
+
+[WPBulky - WordPress Bulk Edit Post Types](hhtps://wordpress.org/plugins/wpbulky-wp-bulk-edit-post-types/)
+
+[Bulky - Bulk Edit Products for WooCommerce](hhtps://wordpress.org/plugins/bulky-bulk-edit-products-for-woo/)
 
 == Installation ==
 
